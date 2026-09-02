@@ -60,12 +60,6 @@ h1,h2,h3{color:#0b6b4f}h1{border-bottom:3px solid #00c17a;padding-bottom:12px}
 <p>Revisión de los avances del Trabajo Final Integrador y análisis práctico de proyecto, aplicaciones, rutas, vistas, contexto y plantillas en Django.</p>
 <a href="clase-25-08-2026.html">Abrir minuta de la clase →</a>
 </section>
-<section class="card clase">
-<span class="tipo">Semana 4</span>
-<h3>Clase del 1 de septiembre de 2026</h3>
-<p>Seguimiento técnico de los cinco grupos, revisión de URL, vistas, GET y POST, contexto, DTL, herencia de plantillas y preparación de la valoración oral de la Unidad 2.</p>
-<a href="clase-01-09-2026.html">Abrir minuta de la clase →</a>
-</section>
 </div>
 </section>
 
